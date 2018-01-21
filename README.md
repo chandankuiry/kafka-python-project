@@ -15,7 +15,7 @@
 
 #### setting up :
 clone this repo:
-*  ` $ git clone git@github.com:chandankuiry/kafka-stream-project.git`
+*  ` $ git clone git@github.com:chandankuiry//kafka-python-project.git`
 
 Create a virtualenv and activate it inside your project directory:
 * `$ virtualenv env && source env/bin/activate`
@@ -24,7 +24,7 @@ Install required dependencies
 * `pip install kafka-python opencv-python Flask`
 
 
-##Running the program
+## Running the program
 
 You will need two terminal to run the application
 
